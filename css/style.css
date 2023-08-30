@@ -243,6 +243,9 @@ h6 {
   height: 100vh;
   background: url("../img/1692814917716.jpg") top center;
   background-size: cover;
+  left: -171px;
+  top: -237px;
+
 }
 
 #hero:before {
@@ -260,6 +263,10 @@ h6 {
   position: relative;
   z-index: 2;
   min-width: 300px;
+  
+  left: -171px;
+  top: -237px;
+
 }
 
 #hero h1 {
